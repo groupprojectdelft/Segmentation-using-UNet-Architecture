@@ -22,5 +22,5 @@ This repositories are designed to wrap up the codes based on respective dataset 
 ###### Results of trained models can be found in below link: 
 https://drive.google.com/drive/folders/1qTPH9vaelcGyyxCyFr22LUKC2Un9zYnu?usp=sharing
 
-###### For complete explanation checkout our blog or report: 
-
+###### For complete explanation checkout our blog: 
+https://medium.com/@arvindwaskarthik/pedestrian-segmentation-a-study-of-influence-of-parameters-and-datasets-with-unet-716162bac05f
